@@ -123,16 +123,16 @@ def sorting_algorithm(mylist):
     return sorted_list
 
 # cv2.namedWindow("out/put", cv2.WINDOW_NORMAL)    # Create window with freedom of dimensions
-# image = cv2.imread("realR.jpeg")
-# image = cv2.imread("r100koms.png")
-# image = cv2.imread("resistor-band-code.jpg")
-# image = cv2.imread("resistor-band-code2.jpg")
-image = cv2.imread("tan-fixed-resistors.jpg")
-# image = cv2.imread("resistor-5-color-bands.png")
-# image = cv2.imread("Metal_film_resistor.jpg")
-# image = cv2.imread("electrical-resistors.jpg")
-# image = cv2.imread("download.png")
-# image = cv2.imread("Screenshot2.jpg")
+# image = cv2.imread("Images/realR.jpeg")
+# image = cv2.imread("Images/r100koms.png")
+# image = cv2.imread("Images/resistor-band-code.jpg")
+# image = cv2.imread("Images/resistor-band-code2.jpg")
+image = cv2.imread("Images/tan-fixed-resistors.jpg")
+# image = cv2.imread("Images/resistor-5-color-bands.png")
+# image = cv2.imread("Images/Metal_film_resistor.jpg")
+# image = cv2.imread("Images/electrical-resistors.jpg")
+# image = cv2.imread("Images/download.png")
+# image = cv2.imread("Images/Screenshot2.jpg")
 
 
 
